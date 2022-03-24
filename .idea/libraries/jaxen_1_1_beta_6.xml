@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jaxen-1.1-beta-6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jaxen-1.1-beta-6.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../jaxen-1.1-beta-6.jar" recursive="false" />
+  </library>
+</component>
